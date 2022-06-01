@@ -14,7 +14,7 @@ Instrucciones para instalación:
 
 3) Mover el archivo common.css a /pnp4nagios/share/media/css/ y reemplazar el archivo que estaba alli, con esto cambias el fondo, el tipo de letra, y la otra parte de los iconos
 
-4) Mover el archivo template.php a /pnp4nagios/share/applications/views/ y reemplazar el archivo que estaba alli, con esto aplicas los cambios para que se vea en la pagina
+4) Mover el archivo template.php y icon_box.php a /pnp4nagios/share/applications/views/ y reemplazar el archivo que estaba alli, con esto aplicas los cambios para que se vea en la pagina
 
 5) Mover el archivo common.php a /pnp4nagios/share/applications/i18n/en_US/ y reemplazar el que esta alli, aqui cambias el idioma a español
 
