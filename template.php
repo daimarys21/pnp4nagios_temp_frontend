@@ -18,10 +18,10 @@
 
 <!-- Lo que hay que agregar en dependencias-->
 
-<?php echo html::script('media/css/materialize/js/materialize.min.js')?>
-<?php echo html::script('media/css/materialize/js/materialize.js')?>
-<?php echo html::script('media/css/materialize/css/materialize.css')?>
-<?php echo html::script('media/css/materialize/css/materialize.min.css')?>
+<?php echo html::stylesheet('media/css/materialize/js/materialize.min.js')?>
+<?php echo html::stylesheet('media/css/materialize/js/materialize.js')?>
+<?php echo html::stylesheet('media/css/materialize/css/materialize.css')?>
+<?php echo html::stylesheet('media/css/materialize/css/materialize.min.css')?>
 
 
 <script type="text/javascript">
